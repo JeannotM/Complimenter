@@ -1,0 +1,7 @@
+## Interface: 70100
+## Title: |cFFFF2222 Complimenter
+## Notes: For that little boost you'll need in battle!
+## Author: SkinnyJeans
+## Version: 1.0
+
+main.lua
